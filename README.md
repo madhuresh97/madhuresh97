@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**madhuresh97/madhuresh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a .NET developer at Wipro and a self taught Blockchain developer. Also I write technical articles and coding tutorials. I have my own blog and my articles have been featured in multiple medium publications.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on .NET, Docker, C#, Python
+- 🌱 I’m currently learning Docker, Rust
+- 👯 I’m looking to collaborate on Microsoft products.
+- 💬 Ask me about Techology in general.
+- 📫 Here are my social links:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin badge](https://img.shields.io/badge/Madhuresh_Gupta-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/madhuresh-gupta)
+[![twitter badge](https://img.shields.io/badge/@madhuresh97-30302f?style=flat&logo=twitter)](https://twitter.com/madhuresh97)
+[![medium badge](https://img.shields.io/badge/Madhuresh_Gupta-30302f?style=flat&logo=medium)](https://medium.com/@madhuresh97)
